@@ -20,7 +20,7 @@ namespace Pantallas_de_Proyecto
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form1 frm1 = new Form1();
+            FormLogin frm1 = new FormLogin();
             frm1.Show();
         }
 

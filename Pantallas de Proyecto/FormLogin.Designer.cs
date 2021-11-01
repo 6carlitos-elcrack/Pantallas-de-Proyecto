@@ -1,7 +1,7 @@
 ﻿
 namespace Pantallas_de_Proyecto
 {
-    partial class Form1
+    partial class FormLogin
     {
         /// <summary>
         /// Variable del diseñador necesaria.
