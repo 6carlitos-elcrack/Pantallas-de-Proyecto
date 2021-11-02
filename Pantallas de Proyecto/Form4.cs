@@ -24,7 +24,7 @@ namespace Pantallas_de_Proyecto
 
         private void btnCerrar_Click(object sender, EventArgs e)
         {
-            Form3 fmr3 = new Form3();
+            frmGestiones fmr3 = new frmGestiones();
             fmr3.Show();
             this.Close();
 

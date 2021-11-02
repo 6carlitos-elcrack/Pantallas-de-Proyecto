@@ -21,14 +21,14 @@ namespace Pantallas_de_Proyecto
 
         private void btnGuardarYSalir_Click(object sender, EventArgs e)
         {
-            Form3 frm3 = new Form3();
+            frmGestiones frm3 = new frmGestiones();
             frm3.Show();
             this.Hide();
         }
 
         private void btnCancelar_Click(object sender, EventArgs e)
         {
-            Form3 frm3 = new Form3();
+            frmGestiones frm3 = new frmGestiones();
             frm3.Show();
             this.Hide();
         }
