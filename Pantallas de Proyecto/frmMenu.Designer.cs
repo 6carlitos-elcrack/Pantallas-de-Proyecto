@@ -1,7 +1,7 @@
 ﻿
 namespace Pantallas_de_Proyecto
 {
-    partial class Form2
+    partial class frmMenu
     {
         /// <summary>
         /// Required designer variable.

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Pantallas_de_Proyecto
 {
-    public partial class Form2 : Form
+    public partial class frmMenu : Form
     {
-        public Form2()
+        public frmMenu()
         {
             InitializeComponent();
         }
@@ -26,7 +26,7 @@ namespace Pantallas_de_Proyecto
 
         private void btnGestiones_Click(object sender, EventArgs e)
         {
-            Form3 frm3 = new Form3();
+            frmGestiones frm3 = new frmGestiones();
             frm3.Show();
             this.Hide();
 
