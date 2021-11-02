@@ -1,7 +1,7 @@
 ﻿
 namespace Pantallas_de_Proyecto
 {
-    partial class Form3
+    partial class frmGestiones
     {
         /// <summary>
         /// Required designer variable.

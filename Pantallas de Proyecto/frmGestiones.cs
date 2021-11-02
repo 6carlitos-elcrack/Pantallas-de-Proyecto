@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace Pantallas_de_Proyecto
 {
-    public partial class Form3 : Form
+    public partial class frmGestiones : Form
     {
 
-        public Form3()
+        public frmGestiones()
         {
             InitializeComponent();
 
