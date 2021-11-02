@@ -41,7 +41,7 @@ namespace Pantallas_de_Proyecto
 
         private void btnTerminar_Click(object sender, EventArgs e)
         {
-            Form2 frm2 = new Form2();
+            frmMenu frm2 = new frmMenu();
             frm2.Show();
             this.Hide();
 
